@@ -32,13 +32,14 @@ A simple and responsive weather application that shows real-time weather informa
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Sonu281004/weather_app.git
-
-
-##🖼️ Screenshots
+ ##🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/fecdd35d-8592-4a94-b7d8-ab5b3ab717a2)
 
 
 ##👤 Author
 Kannoujiya Ku Soni Ramesh
+
+
+
+
+
